@@ -1,35 +1,37 @@
 # Realistic Fuel Usage
 
-**Realistic Fuel Usage** корректирует базовый расход дизельного топлива техники, делая расход топлива в Farming Simulator 25 более реалистичным.
+[English](README.md) | [Русский](README_RU.md)
 
-Вместо использования сильно различающихся значений расхода, заданных авторами отдельных машин, RFU рассчитывает стандартизированный базовый расход в зависимости от мощности выбранной конфигурации двигателя.
+**Realistic Fuel Usage (RFU)** adjusts the base diesel consumption of motorized vehicles to provide more realistic fuel usage in Farming Simulator 25.
 
-Мод создан как универсальный скрипт и не содержит настроек для конкретных тракторов, машин, карт или сборок.
+Instead of relying on widely varying fuel consumption values defined by individual vehicle mods, RFU calculates a standardized base consumption according to the engine power of the selected vehicle configuration.
 
-## Особенности
+The mod is designed as a universal script and does not contain vehicle-specific presets or depend on any particular map or modpack.
 
-- Автоматический расчёт расхода по мощности двигателя
-- Поддержка стандартной и модифицированной техники
-- Не требует индивидуальных настроек машин
-- Поддержка мультиплеера
-- Не изменяет мощность и характеристики двигателя
-- Не изменяет стоимость топлива и процесс заправки
-- Может использоваться совместно с другими модами реализма
+## Features
 
-## Расход топлива
+- Automatic fuel consumption calculation based on engine power
+- Supports base-game and modded vehicles
+- No vehicle-specific configuration required
+- Multiplayer support
+- Does not modify engine power or vehicle performance
+- Does not modify fuel prices or refueling mechanics
+- Designed to work alongside other realism and gameplay mods
 
-Текущая базовая настройка составляет примерно **0,190 л/ч на одну л.с. при полном базовом расходе**.
+## Fuel Consumption
 
-Фактический мгновенный расход продолжает зависеть от штатной системы нагрузки двигателя Farming Simulator 25.
+The current baseline is approximately **0.190 liters per hour per horsepower at full base consumption**.
 
-## Установка
+The actual instantaneous fuel consumption still depends on Farming Simulator 25's own engine load and fuel consumption systems.
 
-1. Скачайте `FS25_RealisticFuelUsage.zip`.
-2. Поместите архив в папку `mods` Farming Simulator 25.
-3. Активируйте **Realistic Fuel Usage** при запуске сохранения.
+## Installation
 
-## Информация
+1. Download `FS25_RealisticFuelUsage.zip`.
+2. Place the ZIP file into your Farming Simulator 25 `mods` folder.
+3. Enable **Realistic Fuel Usage** when loading your savegame.
 
-- **Автор:** Emyrlak
-- **Версия:** 1.0.0.0
-- **Игра:** Farming Simulator 25
+## Information
+
+- **Author:** Emyrlak
+- **Version:** 1.0.0.0
+- **Game:** Farming Simulator 25
