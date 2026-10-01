@@ -24,7 +24,7 @@ The current baseline is approximately **0.190 liters per hour per horsepower at 
 
 The actual instantaneous fuel consumption still depends on Farming Simulator 25's own engine load and fuel consumption systems.
 
-##P.S.
+## P.S.
 RFU works as a standalone mod, but is especially useful when combined with a mod that synchronizes operating hours and fuel consumption with the in-game time scale (Ingame Time Operating Hours mod for example). This allows fuel consumption to remain meaningful when playing with accelerated time.
 
 ## Installation
